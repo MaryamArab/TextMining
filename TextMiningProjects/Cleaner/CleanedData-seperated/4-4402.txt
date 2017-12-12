@@ -1,0 +1,1 @@
+standard logic stdl qtr loss qtr jan oper share loss v profit oper net loss v profit rev v note oper net exclude loss discontinue operation v loss prior qtr exclude tax carryforward prior qtr 

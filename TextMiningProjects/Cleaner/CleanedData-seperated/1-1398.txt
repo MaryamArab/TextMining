@@ -1,0 +1,1 @@
+medtronic mdt set payout quarterly dividend v pay record 

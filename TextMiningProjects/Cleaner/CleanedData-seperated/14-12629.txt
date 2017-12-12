@@ -1,0 +1,1 @@
+mafina bond warrant set million sfr issue amount mafina bv pct swiss franc bond equity warrant set million swiss franc lead manager credit suisse 

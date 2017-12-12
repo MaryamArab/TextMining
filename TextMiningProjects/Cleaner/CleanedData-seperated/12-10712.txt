@@ -1,0 +1,1 @@
+dynamic gd set dividend quarterly v prior pay record 
