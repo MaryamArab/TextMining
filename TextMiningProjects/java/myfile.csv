@@ -1,0 +1,1738 @@
+0	
+1	  earn
+
+2	
+3	
+4	  trade
+  acq
+
+5	
+6	
+7	  earn
+
+8	
+9	
+10	  crude
+  nat-gas
+
+11	
+12	
+13	  coffee
+  cocoa
+  sugar
+
+14	  veg-oil
+
+15	
+16	
+17	  acq
+
+18	
+19	
+20	
+21	
+22	  earn
+
+23	
+24	  acq
+
+25	
+26	  earn
+
+27	
+28	
+29	
+30	
+31	  earn
+
+32	
+33	
+34	  earn
+
+35	
+36	  earn
+
+37	  gas
+
+38	
+39	  earn
+
+40	  earn
+
+41	  acq
+
+42	  iron-steel
+  ship
+
+43	
+44	
+45	  earn
+
+46	
+47	  money-fx
+
+48	  acq
+
+49	  earn
+
+50	
+51	  acq
+
+52	  earn
+
+53	  earn
+
+54	
+55	
+56	  earn
+
+57	  acq
+
+58	
+59	
+60	  earn
+
+61	  cotton
+
+62	
+63	  earn
+
+64	  acq
+
+65	  acq
+
+66	  earn
+
+67	  earn
+
+68	
+69	
+70	  acq
+
+71	
+72	  acq
+  earn
+
+73	  earn
+
+74	  money-fx
+  dlr
+
+75	  earn
+
+76	
+77	  acq
+  crude
+
+78	  money-supply
+
+79	  crude
+
+80	  money-fx
+  dlr
+
+81	
+82	  earn
+
+83	
+84	  earn
+
+85	  acq
+
+86	
+87	  acq
+
+88	  earn
+
+89	  earn
+
+90	  money-fx
+  interest
+
+91	  earn
+
+92	
+93	  earn
+
+94	  earn
+
+95	  earn
+
+96	  earn
+
+97	  acq
+
+98	  earn
+
+99	  coffee
+
+100	
+101	  acq
+
+102	
+103	
+104	  earn
+
+105	  acq
+  crude
+
+106	  sugar
+
+107	  earn
+
+108	  earn
+
+109	  earn
+
+110	
+111	  earn
+
+112	
+113	  earn
+
+114	  earn
+
+115	
+116	
+117	
+118	  earn
+
+119	  grain
+  wheat
+  corn
+
+120	
+121	  cocoa
+
+122	
+123	  grain
+  sugar
+  livestock
+  carcass
+
+124	
+125	
+126	
+127	  acq
+
+128	  acq
+
+129	  earn
+
+130	
+131	
+132	
+133	
+134	  gnp
+  jobs
+
+135	  money-fx
+
+136	
+137	
+138	  acq
+  grain
+  corn
+
+139	  earn
+
+140	
+141	
+142	
+143	
+144	
+145	  acq
+
+146	
+147	
+148	
+149	
+150	  strategic-metal
+
+151	
+152	  money-supply
+
+153	  money-supply
+
+154	  money-supply
+
+155	  interest
+
+156	
+157	  acq
+
+158	
+159	
+160	
+161	  earn
+
+162	  earn
+
+163	
+164	  earn
+
+165	
+166	
+167	  acq
+  crude
+
+168	
+169	
+170	  acq
+
+171	  grain
+  corn
+  wheat
+  oilseed
+  soybean
+
+172	  earn
+
+173	  earn
+
+174	  grain
+  corn
+  wheat
+  oilseed
+  soybean
+  meal-feed
+  veg-oil
+  soy-oil
+  sorghum
+  barley
+
+175	  money-supply
+
+176	  money-supply
+
+177	  money-supply
+
+178	
+179	  earn
+
+180	  earn
+
+181	
+182	  money-supply
+
+183	
+184	  earn
+
+185	  earn
+
+186	
+187	
+188	
+189	  acq
+  crude
+  nat-gas
+
+190	  money-fx
+
+191	  crude
+
+192	
+193	
+194	
+195	  earn
+
+196	  earn
+
+197	
+198	
+199	  crude
+
+200	  earn
+
+201	
+202	
+203	
+204	
+205	
+206	  earn
+
+207	  earn
+
+208	  trade
+
+209	
+210	  earn
+
+211	
+212	  acq
+
+213	  gold
+
+214	  earn
+
+215	  gold
+
+216	
+217	  acq
+  earn
+
+218	  acq
+
+219	
+220	
+221	  earn
+
+222	
+223	  acq
+
+224	  earn
+
+225	
+226	  earn
+
+227	  crude
+  nat-gas
+
+228	
+229	  ipi
+
+230	  earn
+
+231	
+232	  earn
+
+233	
+234	  earn
+
+235	
+236	  earn
+
+237	  acq
+
+238	
+239	  earn
+
+240	
+241	  earn
+
+242	  earn
+
+243	
+244	  earn
+
+245	  money-supply
+  interest
+
+246	
+247	
+248	
+249	
+250	
+251	
+252	  earn
+
+253	  earn
+
+254	  trade
+
+255	
+256	
+257	  alum
+
+258	
+259	  cpi
+
+260	  cpi
+
+261	  reserves
+
+262	  money-fx
+  dlr
+
+263	  trade
+
+264	  trade
+
+265	
+266	
+267	  trade
+  grain
+  wheat
+  tea
+  coffee
+  iron-steel
+  crude
+
+268	
+269	
+270	
+271	  earn
+
+272	
+273	
+274	  iron-steel
+  trade
+
+275	
+276	  interest
+
+277	
+278	
+279	  earn
+
+280	  earn
+
+281	  earn
+
+282	  ipi
+
+283	  earn
+
+284	  ipi
+
+285	
+286	
+287	
+288	  gnp
+
+289	
+290	  earn
+
+291	  earn
+
+292	
+293	  bop
+
+294	  bop
+
+295	
+296	  bop
+  trade
+
+297	
+298	  sugar
+
+299	  oilseed
+  veg-oil
+  castorseed
+  castor-oil
+
+300	
+301	  ship
+
+302	
+303	
+304	  grain
+  wheat
+
+305	  sugar
+
+306	
+307	  money-fx
+  dlr
+
+308	
+309	  acq
+
+310	  acq
+
+311	
+312	  acq
+
+313	  ipi
+
+314	  iron-steel
+
+315	
+316	
+317	  earn
+
+318	  grain
+  corn
+
+319	
+320	  money-fx
+
+321	  alum
+
+322	  money-fx
+  dlr
+
+323	  alum
+
+324	
+325	
+326	
+327	  earn
+
+328	
+329	  veg-oil
+  rape-oil
+
+330	
+331	  tin
+
+332	
+333	  carcass
+
+334	  acq
+
+335	
+336	  money-fx
+  dlr
+
+337	  earn
+
+338	  grain
+  corn
+
+339	  gnp
+  money-fx
+
+340	  trade
+  bop
+
+341	  earn
+
+342	
+343	  money-fx
+  dfl
+
+344	
+345	
+346	  trade
+
+347	  acq
+
+348	  earn
+
+349	
+350	
+351	  trade
+
+352	
+353	  money-fx
+
+354	  trade
+
+355	  money-fx
+
+356	  money-fx
+  dlr
+
+357	  money-fx
+
+358	  money-fx
+
+359	
+360	  acq
+
+361	  bop
+  trade
+
+362	
+363	  money-fx
+  dlr
+  yen
+
+364	
+365	
+366	  sugar
+
+367	  money-fx
+
+368	
+369	  money-fx
+  dlr
+
+370	  acq
+
+371	  trade
+  bop
+
+372	  carcass
+  sugar
+
+373	
+374	  trade
+
+375	  trade
+  bop
+
+376	  cpi
+
+377	
+378	
+379	
+380	  earn
+
+381	  money-fx
+  dlr
+
+382	
+383	  cpi
+
+384	  cpi
+
+385	
+386	  earn
+
+387	  ship
+
+388	
+389	  earn
+
+390	  ship
+
+391	
+392	  earn
+
+393	  ship
+
+394	  crude
+  ship
+
+395	
+396	  interest
+
+397	  earn
+
+398	  acq
+
+399	
+400	  earn
+
+401	  earn
+
+402	  cocoa
+
+403	  acq
+
+404	
+405	  trade
+  grain
+  wheat
+  coffee
+  tea
+  iron-steel
+  crude
+
+406	
+407	
+408	
+409	
+410	  earn
+
+411	  earn
+
+412	
+413	  acq
+
+414	
+415	  money-fx
+
+416	
+417	  money-fx
+
+418	  acq
+
+419	
+420	
+421	
+422	  acq
+
+423	
+424	
+425	
+426	  earn
+
+427	
+428	  acq
+
+429	  earn
+
+430	  earn
+
+431	  earn
+
+432	
+433	  acq
+
+434	  acq
+
+435	  earn
+
+436	
+437	
+438	  earn
+
+439	  earn
+
+440	
+441	  acq
+
+442	
+443	  grain
+  wheat
+
+444	  earn
+
+445	  acq
+
+446	  earn
+
+447	
+448	  cocoa
+
+449	
+450	
+451	  crude
+  ship
+
+452	  acq
+
+453	  acq
+
+454	  trade
+
+455	
+456	
+457	  acq
+
+458	  earn
+
+459	
+460	
+461	  acq
+
+462	
+463	  interest
+
+464	
+465	
+466	  acq
+
+467	
+468	
+469	  earn
+
+470	  cocoa
+
+471	  earn
+
+472	  acq
+
+473	
+474	  money-fx
+  dlr
+
+475	
+476	
+477	  earn
+
+478	
+479	
+480	
+481	
+482	
+483	  earn
+
+484	  gold
+  silver
+  zinc
+  lead
+
+485	
+486	  grain
+  corn
+
+487	
+488	  corn
+  grain
+
+489	
+490	  cocoa
+
+491	
+492	
+493	  grain
+  wheat
+
+494	
+495	
+496	
+497	  earn
+
+498	  earn
+
+499	  earn
+
+500	
+501	
+502	  interest
+  money-fx
+
+503	
+504	  cocoa
+
+505	  cocoa
+
+506	
+507	  acq
+
+508	  earn
+
+509	
+510	
+511	
+512	
+513	
+514	  earn
+
+515	
+516	
+517	  acq
+
+518	  grain
+  corn
+  wheat
+  rice
+
+519	  ipi
+  trade
+
+520	  nat-gas
+
+521	
+522	
+523	  earn
+
+524	
+525	
+526	  acq
+
+527	
+528	  earn
+
+529	  trade
+
+530	  gnp
+  reserves
+
+531	  earn
+
+532	
+533	  earn
+
+534	
+535	  earn
+
+536	  cotton
+
+537	  earn
+
+538	  crude
+  ship
+
+539	
+540	  acq
+
+541	  earn
+
+542	
+543	  earn
+
+544	  interest
+
+545	  gold
+  money-fx
+
+546	  earn
+
+547	  earn
+
+548	
+549	
+550	  acq
+
+551	
+552	  cpi
+
+553	
+554	  acq
+
+555	  earn
+
+556	
+557	
+558	  ship
+
+559	
+560	  earn
+
+561	
+562	  acq
+
+563	  earn
+
+564	  earn
+
+565	  earn
+
+566	  cpi
+  crude
+  nat-gas
+  heat
+  propane
+
+567	
+568	  wheat
+  grain
+
+569	
+570	
+571	
+572	  earn
+
+573	
+574	
+575	  acq
+
+576	
+577	
+578	
+579	
+580	  pet-chem
+
+581	  ship
+  acq
+
+582	
+583	  cocoa
+
+584	  acq
+
+585	  cocoa
+
+586	  acq
+
+587	  crude
+  ship
+
+588	
+589	  oilseed
+
+590	
+591	  money-supply
+
+592	  alum
+
+593	  money-supply
+
+594	
+595	  acq
+
+596	  earn
+
+597	  earn
+
+598	  earn
+
+599	  earn
+
+600	  earn
+
+601	  income
+
+602	
+603	  income
+
+604	
+605	  money-fx
+
+606	
+607	  trade
+
+608	  earn
+
+609	  earn
+
+610	  earn
+
+611	  earn
+
+612	  cocoa
+
+613	
+614	  rubber
+
+615	  livestock
+  carcass
+
+616	  money-fx
+  dlr
+
+617	  money-fx
+
+618	  cocoa
+
+619	  ship
+  crude
+
+620	  crude
+  ship
+
+621	  money-fx
+
+622	  trade
+
+623	
+624	  trade
+
+625	
+626	  ship
+  crude
+
+627	
+628	
+629	
+630	
+631	  crude
+
+632	  money-fx
+
+633	  reserves
+
+634	
+635	  money-fx
+  lit
+
+636	
+637	  money-fx
+
+638	
+639	  coffee
+
+640	  ship
+  crude
+
+641	  trade
+
+642	  trade
+  grain
+
+643	  earn
+
+644	
+645	
+646	
+647	  earn
+
+648	
+649	  money-fx
+  dlr
+
+650	  money-fx
+  dlr
+
+651	  money-fx
+  dlr
+
+652	  money-fx
+  dlr
+
+653	  money-fx
+  dlr
+
+654	
+655	
+656	  money-fx
+  dlr
+
+657	  money-fx
+  dlr
+
+658	  money-fx
+  dlr
+
+659	  money-fx
+  dlr
+
+660	  money-fx
+
+661	  gold
+
+662	
+663	
+664	  trade
+
+665	
+666	
+667	
+668	  crude
+
+669	
+670	
+671	
+672	
+673	  acq
+
+674	
+675	  acq
+
+676	
+677	  nickel
+
+678	  money-fx
+  dlr
+  yen
+
+679	
+680	  money-fx
+  dlr
+  yen
+
+681	  coffee
+
+682	
+683	  money-fx
+  dlr
+  yen
+
+684	  earn
+
+685	
+686	  sugar
+
+687	  earn
+
+688	  money-fx
+  yen
+  dlr
+
+689	
+690	
+691	  acq
+
+692	  crude
+
+693	  acq
+
+694	  trade
+
+695	  money-fx
+  dlr
+  yen
+
+696	
+697	
+698	  earn
+
+699	
+700	  grain
+  corn
+
+701	  earn
+
+702	  earn
+
+703	  money-fx
+
+704	  oilseed
+  soybean
+
+705	
+706	
+707	  money-supply
+
+708	  alum
+
+709	  money-fx
+
+710	
+711	  oilseed
+  coconut
+
+712	
+713	  acq
+
+714	  earn
+
+715	
+716	  ship
+
+717	  money-fx
+  rupiah
+  dmk
+  yen
+
+718	
+719	  oilseed
+  coconut
+
+720	  acq
+
+721	
+722	
+723	  cpi
+
+724	
+725	
+726	
+727	
+728	  rubber
+
+729	
+730	  money-fx
+  dlr
+
+731	
+732	
+733	  money-fx
+
+734	
+735	  money-fx
+  dlr
+
+736	  money-supply
+
+737	  earn
+
+738	
+739	
+740	
+741	  cocoa
+
+742	  earn
+
+743	  acq
+
+744	
+745	  money-supply
+
+746	
+747	  ship
+
+748	  money-fx
+
+749	  crude
+
+750	  money-fx
+  dlr
+  dmk
+
+751	  coffee
+
+752	
+753	  money-supply
+
+754	  money-fx
+
+755	  money-fx
+
+756	  money-supply
+
+757	  oilseed
+  sunseed
+  rapeseed
+  veg-oil
+  sun-oil
+  rape-oil
+
+758	
+759	  cocoa
+
+760	
+761	  money-fx
+  dlr
+  yen
+
+762	
+763	
+764	
+765	  money-fx
+  dlr
+  yen
+
+766	  trade
+
+767	  acq
+
+768	  money-fx
+  dlr
+  yen
+
+769	  money-fx
+  dlr
+  yen
+
+770	  trade
+  money-fx
+
+771	
+772	  money-fx
+
+773	  money-fx
+
+774	
+775	
+776	
+777	
+778	  trade
+
+779	  money-fx
+  trade
+
+780	  trade
+
+781	  money-fx
+  dlr
+
+782	
+783	  acq
+
+784	
+785	  acq
+
+786	  acq
+
+787	  acq
+
+788	
+789	  earn
+
+790	
+791	
+792	
+793	  acq
+
+794	
+795	  money-fx
+
+796	  crude
+  ship
+
+797	
+798	
+799	
+800	
+801	
+802	  sugar
+  ship
+
+803	  money-fx
+  yen
+
+804	  earn
+
+805	
+806	  money-fx
+  trade
+
+807	  money-fx
+
+808	  money-fx
+
+809	
+810	  gold
+
+811	
+812	
+813	
+814	  acq
+
+815	  acq
+
+816	  earn
+
+817	
+818	
+819	
+820	
+821	  earn
+
+822	
+823	
+824	  trade
+
+825	  earn
+
+826	  gnp
+
+827	
+828	
+829	  grain
+  wheat
+  rice
+
+830	  acq
+
+831	  earn
+
+832	  earn
+
+833	  acq
+
+834	
+835	
+836	
+837	
+838	  earn
+
+839	  earn
+
+840	  earn
+
+841	
+842	  acq
+
+843	  acq
+
+844	  crude
+
+845	
+846	  earn
+
+847	  acq
+
+848	  acq
+
+849	
+850	  earn
+
+851	
+852	  earn
+
+853	
+854	  earn
+
+855	  earn
+
+856	  hog
+  livestock
+
+857	
+858	  money-fx
+
+859	  fuel
+
+860	
+861	
+862	
+863	  money-fx
+
+864	
+865	
+866	  acq
+
+867	  gold
+
+868	
+869	  earn
+
+870	  acq
+
+871	  acq
+
+872	  crude
+
+873	  acq
+
+874	
+875	  coffee
+
+876	  earn
+
+877	
+878	  earn
+
+879	
+880	
+881	  grain
+  wheat
+  corn
+  oilseed
+  soybean
+
+882	  acq
+
+883	  earn
+
+884	  earn
+
+885	  rubber
+  pet-chem
+
+886	  acq
+
+887	
+888	
+889	
+890	  earn
+
+891	  acq
+
+892	  earn
+
+893	  earn
+
+894	  acq
+
+895	
+896	  earn
+
+897	
+898	  acq
+
+899	
+900	  acq
+
+901	  coffee
+
+902	  veg-oil
+
+903	  earn
+
+904	  trade
+
+905	
+906	  earn
+
+907	  acq
+
+908	  acq
+
+909	
+910	
+911	
+912	  money-fx
+
+913	
+914	
+915	
+916	  earn
+
+917	  acq
+
+918	  earn
+
+919	
+920	  earn
+
+921	  earn
+
+922	  earn
+
+923	  earn
+
+924	  earn
+
+925	  earn
+
+926	
+927	  acq
+
+928	
+929	
+930	  nzdlr
+  austdlr
+
+931	
+932	
+933	
+934	
+935	
+936	
+937	
+938	
+939	
+940	  acq
+
+941	
+942	  earn
+
+943	  earn
+
+944	
+945	  earn
+
+946	  crude
+
+947	
+948	
+949	  acq
+
+950	
+951	
+952	
+953	
+954	
+955	  grain
+  wheat
+  corn
+
+956	
+957	
+958	  coffee
+
+959	  acq
+
+960	  acq
+
+961	  acq
+
+962	  earn
+
+963	  earn
+
+964	
+965	  earn
+
+966	
+967	
+968	  acq
+  gold
+
+969	
+970	  acq
+
+971	  earn
+
+972	  earn
+
+973	  earn
+
+974	
+975	
+976	
+977	  acq
+
+978	
+979	  earn
+
+980	
+981	
+982	  earn
+
+983	
+984	  acq
+
+985	
+986	
+987	  acq
+
+988	  acq
+
+989	
+990	
+991	  acq
+
+992	
+993	  acq
+  gold
+
+994	
+995	
+996	
+997	  acq
+
+998	  earn
+
+999	  money-fx
+  stg
+

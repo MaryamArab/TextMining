@@ -1,0 +1,56 @@
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * Created by maryam on 12/3/17.
+ */
+public class Main {
+    public static void main(String args[]){
+
+
+
+       String [][] Topics= new String[][];
+
+
+
+        Topics[0][0]="people, time, right, did, good, said, say, make, way, government";
+
+        Topics[0][1]="window, problem, using, server, application, screen, display, motif, manager, running";
+
+        Topics[0][2]=" god, jesus, bible, christ, faith ,believe, christian, christians, sin, church";
+//        Topic 3:
+//        game team year games season players play hockey win league
+//        Topic 4:
+//        new 00 sale 10 price offer shipping condition 20 15
+//        Topic 5:
+//        thanks mail advance hi looking info help information address appreciated
+//        Topic 6:
+//        windows file files dos program version ftp ms directory running
+//        Topic 7:
+//        edu soon cs university ftp internet article email pub david
+//        Topic 8:
+//        key chip clipper encryption keys escrow government public algorithm nsa
+//        Topic 9:
+//        drive scsi drives hard disk ide floppy controller cd mac
+//        Topic 10:
+//        just ll thought tell oh little fine work wanted mean
+//        Topic 11:
+//        does know anybody mean work say doesn help exist program
+//        Topic 12:
+//        card video monitor cards drivers bus vga driver color memory
+//        Topic 13:
+//        like sounds looks look bike sound lot things really thing
+//        Topic 14:
+//        don know want let need doesn little sure sorry things
+//        Topic 15:
+//        car cars engine speed good bike driver road insurance fast
+//        Topic 16:
+//        ve got seen heard tried good recently times try couple
+//        Topic 17:
+//        use used using work available want software need image data
+//        Topic 18:
+//        think don lot try makes really pretty wasn bit david
+//        Topic 19:
+//        com list dave internet article sun hp email ibm phone
+    }
+}
